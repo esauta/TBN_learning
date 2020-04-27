@@ -40,6 +40,7 @@ All input data should be created as tab separated files and stored in this sub-d
 The structure of example data should be mantained in the user input data. 
 
 ## Example Data
+The transcriptional Bayesian model used as algorithm's input is directed acyclic graph (DAG).
 
 * _All_TFTF_edges.txt_: All weighted interactions among core regulators TFs. If interactions are not weighted, set an equal weight (e.g. 0.5) to all edges.
 
