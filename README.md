@@ -15,7 +15,7 @@ _TBN_learning is a MATLAB implemented hybrid algorithm for learning the structur
 # Cite
 If you use this code in your research work, please cite:
 
-Sauta E et al. "A Bayesian data fusion based approach for learning genome-wide transcriptional regulatory networks." BMC Bioinformatics (2020)
+Sauta, E., Demartini, A., Vitali, F. et al. A Bayesian data fusion based approach for learning genome-wide transcriptional regulatory networks. BMC Bioinformatics 21, 219 (2020). https://doi.org/10.1186/s12859-020-3510-1
 
 # Installation 
 
